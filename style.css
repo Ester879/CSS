@@ -1,0 +1,23 @@
+body {
+    background-color: rgba(205, 61, 176, 0.274);
+}
+
+h1 {
+    color: black;
+}
+
+h3 {
+    color: rgb(9, 4, 3);
+}
+
+LI {
+    color: rgb(43, 0, 255);
+}
+
+h2 {
+    background-color: rgb(197, 178, 154);
+    border: rgb(183, 81, 34);
+}
+#astronomy-class {
+    color: rgb(43, 0, 255);
+}
